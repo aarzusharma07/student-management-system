@@ -1,6 +1,6 @@
 #  Academix – Student Management Portal
 
-A modern and scalable **Student Management Portal** built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. Academix provides a complete solution for managing student records, authentication, analytics, profile management, and administrative operations through a clean, responsive, and professional user interface.
+Academix is a simple MERN stack portal for managing student records.
 
 Designed with a premium dark theme, glassmorphism-inspired UI, and smooth user experience, Academix helps educational institutions efficiently manage student information while maintaining security and performance.
 
