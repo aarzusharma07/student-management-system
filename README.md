@@ -1,6 +1,6 @@
 #  Academix – Student Management Portal
 
-Academix is a simple MERN stack portal for managing student records.
+Academix is a simple and secure MERN stack (MongoDB, Express.js, React.js, Node.js) portal for managing student records, with JWT login and role-based access.
 
 Designed with a premium dark theme, glassmorphism-inspired UI, and smooth user experience, Academix helps educational institutions efficiently manage student information while maintaining security and performance.
 
